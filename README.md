@@ -74,3 +74,4 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 
 ------------------Change log-------------------
 - Images for index.html resized
+- Analytics asynced
