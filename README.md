@@ -73,4 +73,4 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
 
 ------------------Change log-------------------
-- Image for index.html resized
+- Images for index.html resized
