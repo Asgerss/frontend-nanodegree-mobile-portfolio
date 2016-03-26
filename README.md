@@ -83,3 +83,4 @@ Specific changes to main.js for the pizza site:
 - The resizePizza function have been reworked:
 	- Now the new pizza size is based on % rather than calculating a px width.
  	- The randomPizzaContainer stored as variable to avoid accessing the DOM constantly when iterating through pizzas
+- Number of background pizzas changed from 200 to be a function of the window height
