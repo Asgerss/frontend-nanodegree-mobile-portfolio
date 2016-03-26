@@ -73,6 +73,7 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
 
 ------------------Change log-------------------
+Minification of js files and optimization of images have been done using Google PageSpeed built in functions. More Readable versions of the js files have been saved as file.old.js.
 General changes for page speed:
 - Images for index.html resized
 - Analytics asynced
