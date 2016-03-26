@@ -73,8 +73,13 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
 
 ------------------Change log-------------------
+General changes for page speed:
 - Images for index.html resized
 - Analytics asynced
 - print.css loading delayed with js
 - Web fonts removed
 - style.css moved to style tag
+Specific changes to main.js for the pizza site:
+- The resizePizza function have been reworked:
+	- Now the new pizza size is based on % rather than calculating a px width.
+ 	- The randomPizzaContainer stored as variable to avoid accessing the DOM constantly when iterating through pizzas
