@@ -77,3 +77,4 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 - Analytics asynced
 - print.css loading delayed with js
 - Web fonts removed
+- Cache enabeled
